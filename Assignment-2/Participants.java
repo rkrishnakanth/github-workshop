@@ -11,9 +11,9 @@ class Participants
     
         //Fill in your details in the same format as given above
         
-        
-        
-        
+        students[1].name="Krishnakanth";
+        students[1].rollnum="EE17b015";
+        students[1].likegit=true;
         
         
         
